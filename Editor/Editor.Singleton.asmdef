@@ -1,5 +1,5 @@
 {
-    "name": "Editor",
+    "name": "Editor.Singleton",
     "rootNamespace": "",
     "references": [],
     "includePlatforms": [
