@@ -1,6 +1,6 @@
 {
     "name": "Runtime.Singleton",
-    "rootNamespace": "",
+    "rootNamespace": "Patterns.Singleton",
     "references": [],
     "includePlatforms": [],
     "excludePlatforms": [],
